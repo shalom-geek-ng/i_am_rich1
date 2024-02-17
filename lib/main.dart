@@ -26,7 +26,7 @@ void main(){
     ),
     body: Center(
       child: Image(
-        image: NetworkImage('https://th.bing.com/th/id/OIG.MxQxUggA0RKmKdTjwAqw')
+        image: AssetImage('images/diamond.png')
       ),
     ),
         backgroundColor: Colors.blueGrey,)
